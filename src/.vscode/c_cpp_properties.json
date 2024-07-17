@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/wt/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/wt/catkin_ws/src/macaron_6/include/**",
+        "/home/wt/catkin_ws/src/velodyne/velodyne_driver/include/**",
+        "/home/wt/catkin_ws/src/velodyne/velodyne_laserscan/include/**",
+        "/home/wt/catkin_ws/src/velodyne/velodyne_pcl/include/**",
+        "/home/wt/catkin_ws/src/velodyne/velodyne_pointcloud/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

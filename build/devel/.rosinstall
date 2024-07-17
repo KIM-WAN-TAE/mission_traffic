@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wt/catkin_ws/src/web_cam/build/devel/setup.sh

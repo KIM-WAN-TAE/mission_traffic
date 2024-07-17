@@ -1,0 +1,8 @@
+prefix=/home/wt/catkin_ws/src/web_cam/build/devel
+
+Name: web_cam
+Description: Description of web_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
